@@ -1,0 +1,4 @@
+applications:
+- name: SampleSpringBoot
+  path: build/rest-web-Services-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
