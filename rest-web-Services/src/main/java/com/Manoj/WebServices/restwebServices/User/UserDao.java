@@ -14,8 +14,8 @@ public class UserDao {
 	public int userCount = 2;
 	static {
 		
-		userList.add(new User(1,"manoj",LocalDate.of(1994,07,20)));
-		userList.add(new User(2,"sukanya",LocalDate.of(1995,9,05)));
+		userList.add(new User(1,"manoj",LocalDate.of(1992,07,20)));
+		userList.add(new User(2,"manojkumar",LocalDate.of(1992,07,20)));
 		
 	}
 	
